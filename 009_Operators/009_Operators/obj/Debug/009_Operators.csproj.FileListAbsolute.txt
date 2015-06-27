@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\009_OperatorsNS\009_Operators\009_Operators\bin\009_Operators.dll.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\009_OperatorsNS\009_Operators\009_Operators\bin\009_Operators.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\009_OperatorsNS\009_Operators\009_Operators\bin\009_Operators.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\009_OperatorsNS\009_Operators\009_Operators\obj\Debug\009_Operators.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\009_OperatorsNS\009_Operators\009_Operators\obj\Debug\009_Operators.dll
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Bob Tabor ASP.Net Tutorial\009_OperatorsNS\009_Operators\009_Operators\obj\Debug\009_Operators.pdb
